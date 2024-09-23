@@ -1,5 +1,3 @@
-# 🚀 42news: Atualizações dos Projetos
-
 ### 🎮 Projeto Solong
 <details>
 <summary><b>🔍 Regras</b></summary>
