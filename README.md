@@ -1,35 +1,51 @@
-# 42news
+# 🚀 42news: Atualizações dos Projetos
 
-### Projetos
-
+### 🎮 Projeto Solong
 <details>
-<summary><b>Regras para o projecto Solong</b></summary>
+<summary><b>🔍 Regras</b></summary>
 <div>
-  - Map quadrado
-  - Map quadrado
+  - 🌍 **Mapa**: Deve ser quadrado  
+  - ❤️ **Vidas**: Cada jogador começa com 3  
+  - ⏳ **Tempo**: Máximo de 15 minutos por partida  
+  - 📚 **Bibliotecas**: Proibido usar bibliotecas externas  
 </div>
 </details>
 
+---
+
+### 📡 Projeto Minitalk
 <details>
-<summary><b>Regras para o projecto Minitalk</b></summary>
+<summary><b>🔍 Regras</b></summary>
 <div>
-  - Map quadrado
-  - Map quadrado
+  - 🖥️ **Comunicação**: Apenas entre dois processos  
+  - 💬 **Mensagem**: Tamanho máximo de 256 bytes  
+  - 🔧 **Sinais Unix**: Uso obrigatório para troca de mensagens  
+  - ⏱️ **Resposta**: Tempo limite de 1 segundo  
 </div>
 </details>
 
+---
+
+### 🤔 Projeto Philosophers
 <details>
-<summary><b>Regras para o projecto Philosophers</b></summary>
+<summary><b>🔍 Regras</b></summary>
 <div>
-  - Map quadrado
-  - Map quadrado
+  - 👥 **Filósofos**: Entre 2 e 10 participantes  
+  - 🍽️ **Ações**: Filosofar e comer indefinidamente  
+  - 🔒 **Deadlock**: Não pode ocorrer de jeito nenhum  
+  - ⏲️ **Garfo**: Tempo para pegar o garfo não pode exceder 2 segundos  
 </div>
 </details>
 
+---
+
+### 🐚 Projeto Minishell
 <details>
-<summary><b>Regras para o projecto MInishell</b></summary>
+<summary><b>🔍 Regras</b></summary>
 <div>
-  - Map quadrado
-  - Map quadrado
+  - 🔄 **Redirecionamento**: Suporte para entrada e saída  
+  - 🌍 **Ambiente**: Suporte para variáveis de ambiente  
+  - 🔗 **Comandos Pipe**: Número ilimitado de pipes permitidos  
+  - 🚫 **Restrições**: Não usar a função `system()`  
 </div>
 </details>
