@@ -30,7 +30,7 @@
 <details>
 <summary><b>🔍 Regras</b></summary>
 <div>
-  - 👥 **Filósofos**: Entre 2 e 10 participantes  
+  - 👥 **Helder**: Entre 2 e 10 participantes  
   - 🍽️ **Ações**: Filosofar e comer indefinidamente  
   - 🔒 **Deadlock**: Não pode ocorrer de jeito nenhum  
   - ⏲️ **Garfo**: Tempo para pegar o garfo não pode exceder 2 segundos  
